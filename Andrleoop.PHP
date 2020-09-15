@@ -14,7 +14,7 @@ abstract class  ustredny_FilipAnrdle{
         $this->napeti_FilipAnrdle = $napeti_FilipAnrdle;
     }
     //precteni napeti
-    public function getNapeti_Andrlik() {
+    public function getNapeti_FilipAndrle() {
         return $this-> napeti_FilipAnrdle;
     }
 }
